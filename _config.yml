@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   location         : "Kiel, Germany"
-  employer         : "GEOMAR \n Helmholtz Center for Ocean Research"
+  employer         : > GEOMAR Helmholtz Center 
+  for Ocean Research"
   uri              : # URL
   email            : "sfrey@geomar.de" 
 
